@@ -80,9 +80,13 @@ Aplikasi ini adalah sebuah aplikasi penghitung multi-pengguna yang memungkinkan 
    ```bash
    flutter run
 
+---
+
 ## 🛠 Teknologi yang Digunakan
 - **Flutter** : Framework untuk pengembangan aplikasi lintas platform.
 - **Provider** : Library untuk manajemen status reaktif.
+
+---
 
 ## 🤝 Credited by
 Proyek ini dikembangkan oleh **Alvin Yuga Pramana**.
